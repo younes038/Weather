@@ -193,7 +193,7 @@ class ViewController: UIViewController, UISearchBarDelegate, UITableViewDelegate
     }
     
     @IBAction func btnforecast(_ sender: UIButton) {
-        
+        //performSegue(withIdentifier: "SeeForecast")
     }
 }
 
